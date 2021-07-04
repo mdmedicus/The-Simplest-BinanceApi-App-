@@ -176,9 +176,9 @@ def orderAll(coinName):
 
 
 
-#orderMarket("BUY","USDT","800")
+#orderMarket("BUY","DOGE","800")
 
-#orderLimit("SELL", "USDT", "800", "9")
+#orderLimit("SELL", "DOGE", "800", "9")
 
 #orderCancel("USDT", "orderID")
 
